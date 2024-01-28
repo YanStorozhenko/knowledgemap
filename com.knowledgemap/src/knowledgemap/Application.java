@@ -12,7 +12,7 @@ import java.util.List;
 
 
 public class Application {
-    //глобальні змінні
+    //глобальні
     public static String USER_JSON_FILEPATH;
     public static String ROLE_JSON_FILEPATH;
     public static List<User> users;
