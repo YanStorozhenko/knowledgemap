@@ -1,0 +1,25 @@
+
+f
+java:S1192"KDefine a constant instead of duplicating this literal "\u001B[36m" 3 times.(ÅÆäõüÿÿÿÿ
+f
+java:S1192"KDefine a constant instead of duplicating this literal "\u001B[35m" 3 times.(†ì×şÿÿÿÿ
+e
+java:S1192 "JDefine a constant instead of duplicating this literal "\u001B[0m" 3 times.(æÀñûÿÿÿÿ
+x
+java:S14887"]Immediately return this expression instead of assigning it to the temporary variable "input".(ÿî¡úÿÿÿÿ
+—
+java:S1186
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¶“û¾
+3
+java:S1118
+"Hide this public constructor.(¶“û¾
+E	java:S106"+Replace this use of System.out by a logger.(†ì×şÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(—‘Ñûÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(˜©Í·
+E	java:S106"+Replace this use of System.out by a logger.(ÅÆäõüÿÿÿÿ
+E	java:S106 "+Replace this use of System.out by a logger.(æÀñûÿÿÿÿ
+@	java:S106""+Replace this use of System.out by a logger.(àÁ§ú
+?	java:S106&"+Replace this use of System.out by a logger.(ôÈ‹
+@	java:S106("+Replace this use of System.out by a logger.(¿Û´´
+E	java:S106,"+Replace this use of System.out by a logger.(¯Í’€úÿÿÿÿ
+@	java:S106."+Replace this use of System.out by a logger.(øø£ò
