@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "roleId": 1,
+    "tokenId": "1234",
+    "login": "user1",
+    "passwordHash": "hash1",
+    "name": "John Doe",
+    "avatar": "avatar1.jpg",
+    "email": "user1@example.com",
+    "registered": "2024-01-03T12:00:00Z",
+    "note": "Note for user 1"
+  },
+  {
+    "id": 2,
+    "roleId": 2,
+    "tokenId": "5678",
+    "login": "user2",
+    "passwordHash": "hash2",
+    "name": "Jane Doe",
+    "avatar": "avatar2.jpg",
+    "email": "user2@example.com",
+    "registered": "2024-01-03T12:00:00Z",
+    "note": "Note for user 2"
+  },
+  {
+    "id": 3,
+    "roleId": 3,
+    "tokenId": "91011",
+    "login": "user3",
+    "passwordHash": "hash3",
+    "name": "Bob Smith",
+    "avatar": "avatar3.jpg",
+    "email": "user3@example.com",
+    "registered": "2024-01-03T12:00:00Z",
+    "note": "Note for user 3"
+  },
+  {
+    "id": 4,
+    "roleId": 1,
+    "tokenId": "121314",
+    "login": "user4",
+    "passwordHash": "hash4",
+    "name": "Alice Johnson",
+    "avatar": "avatar4.jpg",
+    "email": "user4@example.com",
+    "registered": "2024-01-03T12:00:00Z",
+    "note": "Note for user 4"
+  },
+  {
+    "id": 5,
+    "roleId": 2,
+    "tokenId": "151617",
+    "login": "user5",
+    "passwordHash": "hash5",
+    "name": "Charlie Brown",
+    "avatar": "avatar5.jpg",
+    "email": "user5@example.com",
+    "registered": "2024-01-03T12:00:00Z",
+    "note": "Note for user 5"
+  },
+  {
+    "id": 6,
+    "roleId": 3,
+    "tokenId": "181920",
+    "login": "user6",
+    "passwordHash": "hash6",
+    "name": "Eva White",
+    "avatar": "avatar6.jpg",
+    "email": "user6@example.com",
+    "registered": "2024-01-03T12:00:00Z",
+    "note": "Note for user 6"
+  },
+  {
+    "id": 7,
+    "roleId": 1,
+    "tokenId": "212223",
+    "login": "user7",
+    "passwordHash": "hash7",
+    "name": "David Black",
+    "avatar": "avatar7.jpg",
+    "email": "user7@example.com",
+    "registered": "2024-01-03T12:00:00Z",
+    "note": "Note for user 7"
+  },
+  {
+    "id": 8,
+    "roleId": 2,
+    "tokenId": "242526",
+    "login": "user8",
+    "passwordHash": "hash8",
+    "name": "Grace Brown",
+    "avatar": "avatar8.jpg",
+    "email": "user8@example.com",
+    "registered": "2024-01-03T12:00:00Z",
+    "note": "Note for user 8"
+  },
+  {
+    "id": 9,
+    "roleId": 3,
+    "tokenId": "272829",
+    "login": "user9",
+    "passwordHash": "hash9",
+    "name": "Frank Miller",
+    "avatar": "avatar9.jpg",
+    "email": "user9@example.com",
+    "registered": "2024-01-03T12:00:00Z",
+    "note": "Note for user 9"
+  },
+  {
+    "id": 10,
+    "roleId": 1,
+    "tokenId": "303132",
+    "login": "user10",
+    "passwordHash": "hash10",
+    "name": "Helen Davis",
+    "avatar": "avatar10.jpg",
+    "email": "user10@example.com",
+    "registered": "2024-01-03T12:00:00Z",
+    "note": "Note for user 10"
+  }
+]

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/com.knowledgemap/out/production/com.knowledgemap/lib/jackson-annotations-2.16.0-rc1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/com.knowledgemap/out/production/com.knowledgemap/lib/jackson-core-2.16.0-rc1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/com.knowledgemap/out/production/com.knowledgemap/lib/jansi-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/com.knowledgemap/out/production/com.knowledgemap/lib/jackson-databind-2.16.0-rc1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
